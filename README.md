@@ -1,2 +1,6 @@
-# Signals-and-Systems-MATLAB-Code
-MATLAB implementations of basic Signals and Systems concepts
+# 📈 Signals and Systems – MATLAB Code
+
+This repository contains MATLAB programs to visualize and understand
+core **Signals and Systems** concepts using clear plots and simple logic.
+
+##
